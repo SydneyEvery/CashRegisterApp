@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CashRegister/CashRegister.iml" filepath="$PROJECT_DIR$/CashRegister/CashRegister.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CashRegisterApp.iml" filepath="$PROJECT_DIR$/.idea/CashRegisterApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegisterApp/RegisterApp.iml" filepath="$PROJECT_DIR$/RegisterApp/RegisterApp.iml" />
     </modules>
   </component>
 </project>
